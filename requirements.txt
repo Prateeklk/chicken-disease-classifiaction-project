@@ -1,0 +1,15 @@
+tensorflow
+pandas
+dvc
+notebook
+matplotlib
+seaborn
+python-box == 6.0.2
+pyYAML
+tqdm # to see the progress bar
+ensure == 1.0.2
+joblib
+types-pyYAML
+scipy
+Flask
+Fask-Cors
