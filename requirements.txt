@@ -1,15 +1,17 @@
 tensorflow
-pandas
+pandas 
 dvc
 notebook
+numpy
 matplotlib
 seaborn
-python-box == 6.0.2
+python-box==6.0.2
 pyYAML
-tqdm # to see the progress bar
-ensure == 1.0.2
+tqdm
+ensure==1.0.2
 joblib
-types-pyYAML
+types-PyYAML
 scipy
 Flask
-Fask-Cors
+Flask-Cors
+-e .
